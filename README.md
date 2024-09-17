@@ -8,8 +8,28 @@ Ce projet est une API REST en Golang pour un système d'authentification et de g
 - Gorilla/session
 - Bcrypt
 - CORS
+- Gorilla/Mux
 
 # Routes
+
+## Register
+Cette route permet à un utilisateur de s'enregistrer.
+
+Méthode : POST
+URL : /register
+Corps de la requête (JSON) :
+{
+    "username": "JohnDoe",
+    "email": "john.doe@example.com",
+    "password": "password123",
+    "type": true
+}
+
+Exemple de réponse en cas de succès (Status 200 OK) :
+"Utilisateur enregistré avec succès"
+
+Exemple de réponse en cas d'échec (Status 400 Bad Request) :
+"Erreur lors de l'enregistrement de l'utilisateur"
 
 ## Login
 Cette route permet à un utilisateur de se connecter.

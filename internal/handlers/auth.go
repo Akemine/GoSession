@@ -7,6 +7,7 @@ import (
 
 	"golang.org/x/crypto/bcrypt"
 	"sand.com/config"
+	model "sand.com/internal/models"
 	"sand.com/internal/tools"
 	logger "sand.com/pkg"
 )
@@ -23,10 +24,7 @@ func LoginHandler(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	var creds struct {
-		Email    string `json:"email"`
-		Password string `json:"password"`
-	}
+	var creds model.Credentials
 
 	// Décodage du JSON
 	err := json.NewDecoder(r.Body).Decode(&creds)
