@@ -1,0 +1,42 @@
+2024/09/17 15:05:15 [2024-09-17 15:05:15] POST /login - Utilisateur: EtLongMucle@gmail.com - Statut: 200
+2024/09/17 15:05:27 [2024-09-17 15:05:27] GET /protected - Utilisateur: EtLongMucle@gmail.com - Statut: 200
+2024/09/17 15:05:42 [2024-09-17 15:05:42] GET /profile - Utilisateur: EtLongMucle@gmail.com - Statut: 200
+2024/09/17 15:05:47 [2024-09-17 15:05:47] POST /logout - Utilisateur: EtLongMucle@gmail.com - Statut: 200
+2024/09/17 15:05:47 [2024-09-17 15:05:47] POST /logout - Utilisateur:  - Statut: 200
+2024/09/17 15:07:07 [2024-09-17 15:07:07] GET /protected - Utilisateur: EtLongMucle@gmail.com - Statut: 200
+2024/09/17 15:07:07 [2024-09-17 15:07:07] GET /protected - Utilisateur: EtLongMucle@gmail.com - Statut: 200
+2024/09/17 15:07:10 [2024-09-17 15:07:10] GET /protected - Utilisateur: EtLongMucle@gmail.com - Statut: 200
+2024/09/17 15:07:10 [2024-09-17 15:07:10] GET /protected - Utilisateur: EtLongMucle@gmail.com - Statut: 200
+2024/09/17 15:07:10 [2024-09-17 15:07:10] GET /protected - Utilisateur: EtLongMucle@gmail.com - Statut: 200
+2024/09/17 15:07:10 [2024-09-17 15:07:10] GET /protected - Utilisateur: EtLongMucle@gmail.com - Statut: 200
+2024/09/17 15:09:02 [2024-09-17 15:09:02] GET /protected - Utilisateur: EtLongMucle@gmail.com - Statut: 200
+2024/09/17 15:09:02 [2024-09-17 15:09:02] GET /protected - Utilisateur: EtLongMucle@gmail.com - Statut: 200
+2024/09/17 15:12:06 [2024-09-17 15:12:06] POST /login - Utilisateur: EtLongMucle@gmail.com - Statut: 200
+2024/09/17 15:12:09 [2024-09-17 15:12:09] GET /profile - Utilisateur: EtLongMucle@gmail.com - Statut: 200
+2024/09/17 15:12:46 [2024-09-17 15:12:46] GET /profile - Utilisateur: EtLongMucle@gmail.com - Statut: 200
+2024/09/17 15:12:46 [2024-09-17 15:12:46] GET /profile - Utilisateur: EtLongMucle@gmail.com - Statut: 200
+2024/09/17 15:12:50 [2024-09-17 15:12:50] POST /logout - Utilisateur: EtLongMucle@gmail.com - Statut: 200
+2024/09/17 15:12:50 [2024-09-17 15:12:50] POST /logout - Utilisateur:  - Statut: 200
+2024/09/17 15:12:53 [2024-09-17 15:12:53] POST /login - Utilisateur: EtLongMucle@gmail.com - Statut: 200
+2024/09/17 15:12:53 [2024-09-17 15:12:53] GET /protected - Utilisateur: EtLongMucle@gmail.com - Statut: 200
+2024/09/17 15:12:53 [2024-09-17 15:12:53] GET /protected - Utilisateur: EtLongMucle@gmail.com - Statut: 200
+2024/09/17 15:13:06 [2024-09-17 15:13:06] GET /protected - Utilisateur: EtLongMucle@gmail.com - Statut: 200
+2024/09/17 15:13:39 [2024-09-17 15:13:39] GET /protected - Utilisateur: EtLongMucle@gmail.com - Statut: 200
+2024/09/17 15:13:42 [2024-09-17 15:13:42] GET /profile - Utilisateur: EtLongMucle@gmail.com - Statut: 200
+2024/09/17 15:13:42 [2024-09-17 15:13:42] GET /profile - Utilisateur: EtLongMucle@gmail.com - Statut: 200
+2024/09/17 15:14:58 [2024-09-17 15:14:58] GET /profile - Utilisateur: EtLongMucle@gmail.com - Statut: 200
+2024/09/17 18:15:44 Serveur démarré sur http://localhost:8080
+2024/09/17 18:15:50 [2024-09-17 18:15:50] GET /protected - Utilisateur: EtLongMucle@gmail.com - Statut: 200
+2024/09/17 18:17:49 Arrêt du serveur
+2024/09/17 18:17:51 Serveur démarré sur http://localhost:8080
+2024/09/17 18:17:58 [2024-09-17 18:17:58] POST /login - Utilisateur: EtLongMucle@gmail.com - Statut: 200
+2024/09/17 18:18:01 [2024-09-17 18:18:01] POST /logout - Utilisateur: EtLongMucle@gmail.com - Statut: 200
+2024/09/17 18:18:01 [2024-09-17 18:18:01] POST /logout - Utilisateur:  - Statut: 200
+2024/09/17 18:18:04 [2024-09-17 18:18:04] POST /login - Utilisateur: EtLongMucle@gmail.com - Statut: 200
+2024/09/17 18:18:05 [2024-09-17 18:18:05] POST /login - Utilisateur: EtLongMucle@gmail.com - Statut: 200
+2024/09/17 18:19:32 Arrêt du serveur
+2024/09/17 18:19:34 Serveur démarré sur http://localhost:8080
+2024/09/17 18:19:38 [2024-09-17 18:19:38] POST /login - Utilisateur: EtLongMucle@gmail.com - Statut: 200
+2024/09/17 18:19:39 [2024-09-17 18:19:39] POST /logout - Utilisateur: EtLongMucle@gmail.com - Statut: 200
+2024/09/17 18:19:39 [2024-09-17 18:19:39] POST /logout - Utilisateur: EtLongMucle@gmail.com - Statut: 200
+2024/09/17 18:24:08 Arrêt du serveur
